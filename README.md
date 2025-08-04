@@ -25,7 +25,6 @@ Saya adalah mahasiswa yang sedang menempuh pendidikan di bidang teknologi inform
   <img src="https://img.shields.io/badge/-VS%20Code-blue?style=flat&logo=visual-studio-code" />
 </p>
 
----
 
 <!-- ### 📈 GitHub Stats
 <p align="center">
